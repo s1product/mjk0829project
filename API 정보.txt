@@ -1,0 +1,24 @@
+NO	데이터 출처	URL / 접근경로	연동방식	무료/유료	관련 사업부	관련 리포트
+1	한국은행 ECOS	https://ecos.bok.or.kr	API	무료	전략, 보안SI, 시큐리티	분기동향, 경제전망, 경제·산업
+2	DART / OpenDART	https://opendart.fss.or.kr	API	무료	전략, 보안SI, 시큐리티	경쟁사 공시, 업체 요약보고서
+3	국가법령정보센터	https://open.law.go.kr	API	무료	전략, 시큐리티	분기동향, 정책·규제·업계
+4	KOSIS 국가통계포털	https://kosis.kr/openapi	API	무료	시큐리티	산업 요약 보고서
+5	공공데이터포털	https://data.go.kr	API	무료	시큐리티	산업 요약, 사회통계
+6	네이버 뉴스검색 오픈API	https://openapi.naver.com	API	무료	건물관리, 전략, 시큐리티	업계 동향, 경쟁사 동향
+7	구글 RSS / 알리미	https://google.com/alerts	RSS	무료	전략, 건물관리	선진사 트렌드, 업계 동향
+8	KIPRIS Plus (특허정보)	https://plus.kipris.or.kr	API	"무료(월 1,000회) / 
+초과 시 유료"	시큐리티	특허 출원 현황
+9	포털·언론사 홈페이지	언론사별 개별 URL	크롤링	무료	전략, 보안SI, 시큐리티	경쟁사 동향, 마켓센싱 등 다수
+10	대한민국정책브리핑	https://korea.kr	크롤링	무료	전략, 보안SI	시장 동향, 공공부문 동향
+11	KDI 경제동향	https://kdi.re.kr, https://eiec.kdi.re.kr	크롤링	무료	전략, 보안SI, 시큐리티	분기동향, 경제전망, 경제·산업
+12	해당기업 뉴스(보도자료·뉴스룸)	기업별 개별 사이트	크롤링	무료	"보안SI, 시큐리티, 
+건물관리"	"관계사 동향, 신상품 출시, 
+업계 동향"
+13	삼일회계법인(PwC) 경제전망	https://pwc.com/kr	크롤링	무료	보안SI	경제전망
+14	IBK기업은행 경제연구소	https://research.ibk.co.kr	크롤링	무료	보안SI	경제전망
+15	하나금융경영연구소	https://hanaif.re.kr	크롤링	무료	보안SI	경제전망
+16	현대경제연구원	https://hri.co.kr	크롤링	무료	보안SI	경제전망
+17	삼정KPMG 인사이트	https://kpmg.com/kr	크롤링	무료	시큐리티	기술동향
+18	경찰청 / 소방청	https://police.go.kr, https://nfa.go.kr	API	무료	시큐리티	사회통계
+19	CJ메조미디어 트렌드 리포트	https://cjmezzomedia.com	크롤링	무료	시큐리티	마케팅 트렌드
+20	한국표준산업분류(KSIC)	https://kssc.kostat.go.kr	크롤링	무료	시큐리티	산업 요약 보고서
